@@ -1,0 +1,129 @@
+body
+{
+    text-align: center;
+    position: relative;
+    font-family: 'Merriweather' , serif;
+    background-color: white;
+    color: black;
+}
+.container
+{
+    position: relative;
+    top: 0;
+}
+.ins {
+    position: absolute;
+    top: 100px;
+    left: 620px;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+    margin: 50px auto 0 auto;
+}
+h2
+{
+    font-family: 'Montserrat',sans-serif;
+}
+h3
+{
+    font-size: 20px;
+}
+p{
+    font-family: 'Montserrat',sans-serif;
+    font-size: large;
+}
+.skillrow
+{
+    width: 50%;
+    margin: 100px auto 150px auto;
+}
+.skillp
+{
+    width: 40%;
+    margin: 100px auto 100px auto;
+}
+.webimg
+{
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+}
+.talimg
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Merriweather' , serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    width: 150px;
+    margin-left: 640px;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+.link
+{
+    background-color: aquamarine;
+    height: 150px;
+    position: relative;
+}
+.atag
+{
+    position: absolute;
+    top: 75px;
+    left: 610px;
+}
+.insta
+{
+    margin: auto 25px auto 25px;
+    text-decoration: none;
+}
+.insta:hover
+{
+    color: #e11717;
+}
+.linkdin
+{
+    text-decoration: none;
+}
+.linkdin:hover
+{
+    color: #e11717;
+}
+.face
+{
+    text-decoration: none;
+}
+.face:hover
+{
+    color: #e11717;
+}
+hr{
+    width: 5%;
+    height: 10%;
+    color: gray;
+    border: dotted;
+}
